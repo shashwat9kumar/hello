@@ -4,9 +4,11 @@
 name: Java_CI_with_Maven
 
 on:
-  push:
+  create:
     branches: [ master ]
   pull_request:
+    branches: [ master ]
+  push:
     branches: [ master ]
 
 jobs:
