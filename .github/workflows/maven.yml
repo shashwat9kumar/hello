@@ -27,3 +27,7 @@ jobs:
       run: |
         mvn -B package --file pom.xml
         ls target/
+    - name: Run Java File
+      run: |
+        cd target
+        java -jar Sonar_Test-0.0.1-SNAPSHOT.jar
