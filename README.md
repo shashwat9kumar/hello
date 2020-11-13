@@ -5,6 +5,11 @@
 
 ![diagram](img/1.png)
 
+<br>
+
+<hr>
+
+<br>
 
 
 ## Logical analysis
