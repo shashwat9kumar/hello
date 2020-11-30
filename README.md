@@ -75,3 +75,27 @@ The DNA frame Buffer
 <hr>
 
 <br>
+
+
+## 4. Chromatic Dichromation
+The DNA chromatic dichromation
+
+![diagram](img/ChromaticDichromation.png)
+<br>
+
+<hr>
+<hr>
+
+<br>
+
+
+## 5. DNA Binary Analysis
+The DNA KMP algo analysis
+
+![diagram](img/BinaryDNAAnalysis.png)
+<br>
+
+<hr>
+<hr>
+
+<br>
